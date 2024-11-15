@@ -1,0 +1,82 @@
+
+        .div1{
+            border: 1px solid white;
+            height: 300px;
+            width: 90px;
+            border-top-left-radius: 100px;
+            border-top-right-radius: 100px;
+            background-color: black;
+            margin-left:100px;
+            margin-top: 70px;
+        }
+        .div2{
+            border: 1px solid white;
+            height: 35px;
+            width: 250px;
+            background-color: black;
+            margin-left: 50px;
+            margin-right: 90px;
+            margin-top: -150px;
+            border-bottom-left-radius:40px;
+            border-top-right-radius: 100px;
+        }
+        .div3{
+            border: 10px solid black;
+            width: 145px;
+            height: 10px;
+            margin-left: 65px;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            background-color: black;
+        }
+       .div4{
+        border: 1px solid white;
+        margin-right: 90px;
+        margin-left: 20px;
+        margin-top: 35px;
+        height: 50px;
+        background-color: black;
+        border-top-left-radius: 100px;
+        border-top-right-radius: 100px;
+        width: 250px;
+       }
+       .div5{
+        border: 2px solid white;
+        margin-top:-240px;
+        margin-left: 115px;
+        width: 60px;
+        border-radius: 20px;
+       }
+       .div6{
+        border: 2px solid  ;
+        width: 60px;
+        margin-left: 115px;
+        padding: 1px;
+        border-radius: 20px;
+
+       }
+       .div7{
+        border: 2px solid red;
+        width: 60px;
+        margin-left: 115px;
+        border-radius: 20px;
+
+       }
+       .div8{
+        border: 2px solid ;
+        width: 60px;
+        margin-left: 115px;
+        padding: 1px;
+        border-radius: 20px;
+       }
+       .div9{
+        border: 2px solid white ;
+        width: 60px;
+        margin-left:115px;
+        border-radius: 20px;
+
+       }
+       p{
+        font-style:italic;
+       }
+    
