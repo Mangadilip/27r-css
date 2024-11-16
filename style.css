@@ -47,36 +47,37 @@
         width: 60px;
         border-radius: 20px;
        }
-       .div6{
-        border: 2px solid  ;
-        width: 60px;
-        margin-left: 115px;
-        padding: 1px;
-        border-radius: 20px;
-
-       }
+      
        .div7{
         border: 2px solid red;
         width: 60px;
         margin-left: 115px;
+        margin-top: 4px;
         border-radius: 20px;
 
        }
-       .div8{
-        border: 2px solid ;
-        width: 60px;
-        margin-left: 115px;
-        padding: 1px;
-        border-radius: 20px;
-       }
+      
        .div9{
         border: 2px solid white ;
         width: 60px;
         margin-left:115px;
         border-radius: 20px;
+        margin-top: 4px;
 
        }
        p{
         font-style:italic;
        }
+       
+        a{
+            background-color: #f44336;
+            color: white;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 400px;
+          }
+          
+       
     
