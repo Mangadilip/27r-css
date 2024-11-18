@@ -1,0 +1,24 @@
+#box1 {
+    border: 2px solid gray;
+    height: 30px;
+    width: 30px;
+  }
+  .box2,
+  .box3,
+  .box4 {
+    border: 1px solid gray;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 6px;
+  }
+  #menu {
+    display: none;
+    border: 2px solid gray;
+    margin-top: 25px;
+    margin-left: 40px;
+    width: 90px;
+    text-align: center;
+  }
+  #box1:active + #menu {
+    display: block;
+  }
