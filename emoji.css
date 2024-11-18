@@ -5,40 +5,57 @@
     margin-left: 15px;
 }
 .box1{
-    border: 2px solid ;
+    border: 2px solid red ;
     padding: 20px;
     width: 50px;
     margin-top:0px;
     margin-left:0px;
 }
+.box1:hover{
+    background-color: red;
+}
+
 .em2{
     margin-left: 165px;
 }
 .box2{
-    border: 2px solid ;
+    border: 2px solid green;
     padding: 20px;
     width: 50px;
     margin-top:0px; 
     margin-left: 150px;  
 }
+.box2:hover{
+    background-color: green;
+}
+
 .em3{
     margin-left: 315px;
     
 }
 .box3{
-    border: 2px solid ;
+    border: 2px solid orchid;
     padding: 20px;
     width: 50px;
     margin-top:0px;   
     margin-left: 300px;  
 }
+.box3:hover{
+    background-color: orchid;
+}
+
 .em4{
     margin-left: 465px;
 }
 .box4{
-    border: 2px solid ;
+    border: 2px solid blue;
     padding: 20px;
     width: 50px;
     margin-top:0px; 
-    margin-left: 450px;    
+    margin-left: 450px;   
+    
+    
+}
+.box4:hover{
+    background-color: blue;
 }
