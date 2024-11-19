@@ -14,8 +14,8 @@ body {
     width: 400px;
     margin-top: 20px;
     margin-left: 20px;
-    box-shadow: 0px 0px 15px 5px white;
-    background-color: bisque;
+    box-shadow: 0px 0px 15px 5px pink ;
+    background-color:rgb(234, 179, 242);
     border-radius: 10px;
    
     
@@ -44,7 +44,7 @@ body {
   }
   #p1{
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid ;
     width: 200px;
     margin: auto;
    text-wrap: nowrap;
@@ -76,7 +76,7 @@ body {
   margin-top: -395px;
   margin-left: 700px;
   margin-right: auto;
-  box-shadow: 0px 0px 15px 5px white;
-  background-color: bisque;
+  box-shadow: 0px 0px 15px 5px violet;
+  background-color:snow;
   border-radius: 10px;
 }
