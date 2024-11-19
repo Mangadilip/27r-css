@@ -1,15 +1,23 @@
 body {
+  
     background-color: black;
+  }
+  h1{
+    
+    color: white;
+    
+    
   }
   .outerbox1 {
     border: 3px solid;
     height: 390px;
     width: 400px;
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: 20px;
     box-shadow: 0px 0px 15px 5px white;
     background-color: bisque;
     border-radius: 10px;
+   
     
    
   }
@@ -37,9 +45,11 @@ body {
   #p1{
     text-align: center;
     border: 2px solid white;
-    width: 250px;
+    width: 200px;
     margin: auto;
-   
+   text-wrap: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
 
   }
   .textouter {
